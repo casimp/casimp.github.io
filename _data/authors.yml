@@ -9,7 +9,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    A bit about me...
+    I'm a senior research scientist who specialises in Data Science and Computer Vision for Materials Science, currently working to solve NDE data challenges for Industry 4.0. 
+    I've developed widely used tools built on Python's scientific stack to efficiently process, analyse and visualise the high volume of complex data produced at synchrotron science facilities. 
+    I've recently applied for, and won, research funding to study Offshore Wind Structures and I'm interested in businesses and technology that helps society move towards a low carbon future.
 
   # This photo will be used in the about section.
   picture:
