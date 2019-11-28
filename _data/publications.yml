@@ -1,0 +1,133 @@
+-
+  layout: article
+  paper-type: article
+  selected: y
+  year: 2019
+  img: act2019
+  title: "The effect of anisotropic microstructure on the crack growth and fatigue overload behaviour of ultrafine-grained nickel"
+  authors: "Wen Zhang, <strong>Chris Simpson</strong>, Thomas Leitner, X Zhang, Reinhard Pippan, Philip J Withers"
+  journal: Acta Materialia
+  journal-url: https://linkinghub.elsevier.com/retrieve/pii/S1359645419307554
+  abstract: >
+     Changes in crack growth rate associated with overload events during fatigue are poorly understood, especially for materials with anisotropic microstructures. Here overload fatigue tests are reported for compact tension samples cut in two different orientations from high pressure torsion disc samples. During growth the crack planes reoriented either slightly, or significantly, to align with the elongated grain structure leading to low, and high, levels of mixed mode fatigue loading respectively. In both cases the ultrafine grained microstructure led to macroscopically flat crack faces. The fatigue crack growth rate was around 3.4 times slower for the case with the high mode II component than for the low. A 100% overload was then introduced and synchrotron X-ray diffraction and digital image correlation (DIC) were applied in-situ to map the bulk crack-tip elastic strain field (plane strain) and surface displacement field (plane stress) respectively prior to, during and after overload. The high mode II case displayed a larger degree of retardation after overload. Residual stress and plasticity-induced crack closure were found to be the primary causes for the retardation as the crack grows into the overload plastic zone. Significant crack face contact was observed for the high mode II case along with significant levels of compressive stress transferred across the crack faces at minimum load. Compared with conventional (coarse) grain Ni, the ultrafine grained Ni is less retarded by overload, because of its relatively flatter crack path and higher yield stress and thus less plasticity and residual stress induced closure.
+  bibtex: >
+    @article{Zhang2019,
+    author = {Zhang, W. and Simpson, C.A. and Leitner, T. and Zhang, X. and Pippan, R. and Withers, P.J.},
+    doi = {10.1016/j.actamat.2019.11.024},
+    issn = {13596454},
+    journal = {Acta Materialia},
+    month = {nov},
+    title = {The effect of anisotropic microstructure on the crack growth and fatigue overload behaviour of ultrafine-grained nickel},
+    url = {https://linkinghub.elsevier.com/retrieve/pii/S1359645419307554},
+    year = {2019}
+        }
+
+-
+  layout: article
+  paper-type: article
+  selected: y
+  year: 2019
+  img: jmps2019
+  title: "Quantifying fatigue overload retardation mechanisms by energy dispersive X-ray diffraction"
+  authors: "<strong>Chris Simpson</strong>, Shohei Kozuki, Pablo Lopez-Crespo, Mahmoud Mostafavi, Thomas Connolley and Philip J Withers"
+  journal: Journal of the Mechanics and Physics of Solids
+  journal-url: https://linkinghub.elsevier.com/retrieve/pii/S0022509618308500
+  bibtex: >
+    @article{Simpson2019a,
+    abstract = {The fatigue crack retardation mechanisms operating after an overload event are investigated for a bainitic steel using high spatial resolution energy dispersive synchrotron X-ray diffraction. The elastic crack-tip strain fields are mapped at mid-thickness of compact tension samples at R-ratios of 0.1 and 0.4. The same overload stress intensity factor (KOL = 60 MPa m1/2) is applied in each case with the cracks then propagating under the same applied stress intensity range, $\Delta$Kapp = 27 MPa m1/2. The competing retardation mechanisms are directly quantified and separated, with the associated fatigue crack growth (FCG) rates then being predicted according to a 2-parameter Walker-type assessment and validated against those measured. The stress intensity factor associated with the overload residual stress field is calculated using a weight function approach. For R=0.1, shielding from residual stress controls retardation when crack growth through the overload plastic zone, rpOL, is small (specifically {\textless}0.6rpOL). For more extensive crack growth, discontinuous crack closure controls the retardation behaviour, with significant load transfer across opposing crack faces being observed at minimum load (for R=0.1). These crack face tractions are associated with the plastic asperity created during overload. The traction forces holding the crack faces open at minimum load are, for the first time, used to directly quantify the associated stress intensity factor, Kmintract as a function of crack growth. While no crack shielding is expected, nor observed, for R=0.4, the variation in FCG rate after overload is explained by changes in effective R-ratio.},
+    author = {Simpson, C.A and Kozuki, S and Lopez-Crespo, P and Mostafavi, M and Connolley, T and Withers, P.J},
+    doi = {10.1016/j.jmps.2018.10.020},
+    issn = {00225096},
+    journal = {Journal of the Mechanics and Physics of Solids},
+    keywords = {Crack opening displacement,Crack-tip shielding,Intrinsic shielding,Linear elastic fracture mechanics (LEFM)},
+    mendeley-groups = {My Publications},
+    month = {oct},
+    pages = {392--410},
+    title = {Quantifying fatigue overload retardation mechanisms by energy dispersive X-ray diffraction},
+    url = {https://linkinghub.elsevier.com/retrieve/pii/S0022509618308500},
+    volume = {124},
+    year = {2019}
+    }
+
+-
+  layout: article
+  paper-type: article
+  selected: y
+  year: 2019
+  img: trib2019
+  title: "Measurement of strain evolution in overloaded roller bearings using energy dispersive X-ray diffraction"
+  authors: "Anthony Reid, <strong>Chris Simpson</strong>, I Martinez, Saurabh Kabra, Thomas Connolley, M Marshall and Mahmoud Mostafavi"
+  journal: Tribology International
+  journal-url: https://doi.org/10.1016/j.triboint.2019.105893
+  bibtex: >
+    @article{Reid2019,
+    author = {Reid, A and Simpson, C and Martinez, I and Kabra, S and Connolley, T and Magdysyuk, O and Charlesworth, C and Marshall, M and Mostafavi, M},
+    doi = {10.1016/j.triboint.2019.105893},
+    file = {:C$\backslash$:/Users/casim/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Reid et al. - 2019 - Measurement of strain evolution in overloaded roller bearings using energy dispersive X-ray diffraction.pdf:pdf},
+    issn = {0301679X},
+    journal = {Tribology International},
+    mendeley-groups = {My Publications},
+    month = {dec},
+    number = {May},
+    pages = {105893},
+    publisher = {Elsevier Ltd},
+    title = {{Measurement of strain evolution in overloaded roller bearings using energy dispersive X-ray diffraction}},
+    url = {https://doi.org/10.1016/j.triboint.2019.105893 https://linkinghub.elsevier.com/retrieve/pii/S0301679X19304128},
+    volume = {140},
+    year = {2019}
+    }
+-
+  layout: article
+  paper-type: article
+  selected: y
+  year: 2019
+  img: tafm2019
+  title: "Validating 3D two-parameter fracture mechanics models for structural integrity assessments"
+  authors: "<strong>Chris Simpson</strong>, Simon Tonge, Thomas Connolley, Christina Reinhard, James Marrow and Mahmoud Mostafavi"
+  journal: Theoretical and Applied Fracture Mechanics
+  journal-url: https://linkinghub.elsevier.com/retrieve/pii/S0167844219301831
+  bibtex: >
+    @article{Simpson2019b,
+    author = {Simpson, C.A. and Tonge, S and Connolley, T and Reinhard, C and Marrow, T.J. and Mostafavi, M},
+    doi = {10.1016/j.tafmec.2019.102281},
+    file = {:C$\backslash$:/Users/casim/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Simpson et al. - 2019 - Validating 3D two-parameter fracture mechanics models for structural integrity assessments.pdf:pdf},
+    issn = {01678442},
+    journal = {Theoretical and Applied Fracture Mechanics},
+    keywords = {102281,2019,DIC,DVC,J-integral,Plastic constraint,Strain energy release rate,XCT,XRD,com,contents lists available at,elsevier,journal homepage,locate,mechanics,mechanics 103,oretical and applied fracture,sciencedirect,tafmec,theoretical and applied fracture,www},
+    mendeley-groups = {My Publications},
+    month = {oct},
+    number = {June},
+    pages = {102281},
+    publisher = {Elsevier},
+    title = {{Validating 3D two-parameter fracture mechanics models for structural integrity assessments}},
+    url = {https://linkinghub.elsevier.com/retrieve/pii/S0167844219301831},
+    volume = {103},
+    year = {2019}
+    }
+
+-
+  layout: article
+  paper-type: article
+  selected: y
+  year: 2019
+  img: jmpt2019
+  title: "Weld zone and residual stress development in AA7050 stationary shoulder friction stir T-joint weld"
+  authors: "Tianzhu Sun, Matthew J Roy, D Strong and <strong>Chris Simpson</strong>, Philip J Withers and Philip B Prangnell"
+  journal: Journal of Materials Processing Technology
+  journal-url: https://linkinghub.elsevier.com/retrieve/pii/S0924013618303649
+  bibtex: >
+    @article{Sun2019,
+    abstract = {{\textcopyright} 2018 This paper shows the potential of stationary shoulder friction stir welding (SSFSW) for producing higher quality T- section joints relative to a conventional friction stir welding (FSW) approach. The residual stress distributions and their relationship to the weld zone microstructure and hardness distributions in SSFSW T-joints were investigated, as a function of welding travel speed. The final longitudinal residual stress fields were asymmetric, although individual weld zones showed similarities to those for conventional butt SSFSWs. The thermal excursion and plastic strain arising from the second pass lowered the residual stresses seen from the first pass, so that the largest tensile stresses (∼160 MPa) were found close to the nugget from the second weld pass. The asymmetry in hardness distribution was caused by the thermal field of the second pass which thermally treated material in the first pass and resulted in areas of age hardening and increased over ageing, depending on the position of overlap of the thermal fields. The effects of the second weld pass on the first pass were more apparent when a lower travel speed was used owing to the increase in heat input and duration of the thermal cycle.},
+    author = {Sun, T. and Roy, M.J. and Strong, D. and Simpson, C. and Withers, P.J. and Prangnell, P.B.},
+    doi = {10.1016/j.jmatprotec.2018.08.022},
+    issn = {09240136},
+    journal = {Journal of Materials Processing Technology},
+    keywords = {AA7050,Fillet weld,Multi-pass,Neutron diffraction,SSFSW},
+    mendeley-groups = {My Publications},
+    month = {jan},
+    pages = {256--265},
+    title = {{Weld zone and residual stress development in AA7050 stationary shoulder friction stir T-joint weld}},
+    url = {https://linkinghub.elsevier.com/retrieve/pii/S0924013618303649},
+    volume = {263},
+    year = {2019}
+    }
